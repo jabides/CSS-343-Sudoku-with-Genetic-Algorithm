@@ -1,0 +1,10 @@
+﻿  SudokuPopulation.cpp
+  SudokuOffspring.cpp
+  SudokuFitness.cpp
+  SudokuFactory.cpp
+  Sudoku.cpp
+  GeneticAlgorithm.cpp
+c:\users\jasus\documents\visual studio 2015\css 343\program4\program4\geneticalgorithm.cpp(59): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Program4.vcxproj -> C:\Users\JASUS\Documents\Visual Studio 2015\CSS 343\Program4\Debug\Program4.exe
+  Program4.vcxproj -> C:\Users\JASUS\Documents\Visual Studio 2015\CSS 343\Program4\Debug\Program4.pdb (Partial PDB)
